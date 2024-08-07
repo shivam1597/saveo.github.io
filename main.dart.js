@@ -23955,7 +23955,7 @@ s.ax$!==$&&A.a3()
 s.ax$=m
 n=m}s.T9(new A.Jr(p,k,o,n,l))
 s.FL()},
-awm(){return new A.Gb(A.avz(A.b([A.agF(new A.a0l(),null,"/"),A.agF(new A.a0m(),null,"/details")],t.yo)),null)},
+awm(){return new A.Gb(A.avz(A.b([A.agF(new A.a0l(),null,"/"),A.agF(new A.a0m(),null,"/chat")],t.yo)),null)},
 Gb:function Gb(a,b){this.c=a
 this.a=b},
 a0l:function a0l(){},
